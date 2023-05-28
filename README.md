@@ -18,6 +18,6 @@ Behad advertisement (simple)
    Step 2. Add the dependency
 
 	 dependencies {
-	        implementation 'com.github.karimov0147:adstar-sdk:Tag'
+	        implementation 'com.github.karimov0147:adstar-sdk:1.0.0'
 	 }
 
